@@ -1,6 +1,6 @@
 # 📈 Promedios Móviles — Series de Tiempo
 
-Implementación paso a paso de un modelo de **promedios móviles** para series de tiempo, construida desde cero en Python sin librerías de forecasting externas.
+Implementación paso a paso de un modelo de **promedios móviles** para series de tiempo, construido desde cero en Python sin librerías de forecasting externas.
 
 ## ¿Qué hace?
 
