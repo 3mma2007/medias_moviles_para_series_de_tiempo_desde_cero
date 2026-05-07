@@ -24,7 +24,7 @@ Implementación paso a paso de un modelo de **promedios móviles** para series d
 pip install matplotlib
 ```
 
-> Solo se usa `random` y `matplotlib` — ambos de la biblioteca estándar / común de Python.
+> Solo se usa `random` y `matplotlib`.
 
 ## Uso
 
