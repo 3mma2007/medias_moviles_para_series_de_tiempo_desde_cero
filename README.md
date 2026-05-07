@@ -7,6 +7,7 @@ Implementación paso a paso de un modelo de **promedios móviles** para series d
 - Genera una serie de tiempo ficticia con datos aleatorios (semilla fija para reproducibilidad)
 - Implementa manualmente la función de promedios móviles con parámetros `n` (día a predecir) y `k` (ventana de días anteriores)
 - Calcula el error del modelo usando **RMSE** (Root Mean Squared Error)
+  $$RMSE = \sqrt{\frac{\sum_{i=1}^{n}(\hat{y}_i - y_i)^2}{n}}$$
 - Visualiza la serie original vs. las predicciones con `matplotlib`
 
 ## Estructura del notebook
